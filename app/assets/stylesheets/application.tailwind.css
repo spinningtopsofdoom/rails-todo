@@ -9,4 +9,10 @@
   .btn-primary {
     @apply bg-blue-600 text-white;
   }
+  .notice {
+    @apply bg-green-200 text-black p-4 rounded-md;
+  }
+  .error {
+    @apply bg-red-200 text-black p-4 rounded-md;
+  }
 }
